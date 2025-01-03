@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Git\\desktop-tutorial\\Project1\\",
+  "WorkspaceRootPath": "D:\\Git\\assignment1\\Project1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{971B408B-61D1-4606-B047-12AD7B998549}|Project1\\Project1.vcxproj|D:\\Git\\desktop-tutorial\\Project1\\Project1\\project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{971B408B-61D1-4606-B047-12AD7B998549}|Project1\\Project1.vcxproj|D:\\Git\\assignment1\\Project1\\Project1\\project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{971B408B-61D1-4606-B047-12AD7B998549}|Project1\\Project1.vcxproj|solutionrelative:Project1\\project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{971B408B-61D1-4606-B047-12AD7B998549}|Project1\\Project1.vcxproj|D:\\Git\\desktop-tutorial\\Project1\\Project1\\project2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{971B408B-61D1-4606-B047-12AD7B998549}|Project1\\Project1.vcxproj|D:\\Git\\assignment1\\Project1\\Project1\\project2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{971B408B-61D1-4606-B047-12AD7B998549}|Project1\\Project1.vcxproj|solutionrelative:Project1\\project2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -24,21 +24,23 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "project2.cpp",
-              "DocumentMoniker": "D:\\Git\\desktop-tutorial\\Project1\\Project1\\project2.cpp",
+              "DocumentMoniker": "D:\\Git\\assignment1\\Project1\\Project1\\project2.cpp",
               "RelativeDocumentMoniker": "Project1\\project2.cpp",
-              "ToolTip": "D:\\Git\\desktop-tutorial\\Project1\\Project1\\project2.cpp",
+              "ToolTip": "D:\\Git\\assignment1\\Project1\\Project1\\project2.cpp",
               "RelativeToolTip": "Project1\\project2.cpp",
               "ViewState": "AQIAABsAAAAAAAAAAAAAADIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-23T11:53:14.413Z"
+              "WhenOpened": "2024-12-23T11:53:14.413Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "project.cpp",
-              "DocumentMoniker": "D:\\Git\\desktop-tutorial\\Project1\\Project1\\project.cpp",
+              "DocumentMoniker": "D:\\Git\\assignment1\\Project1\\Project1\\project.cpp",
               "RelativeDocumentMoniker": "Project1\\project.cpp",
-              "ToolTip": "D:\\Git\\desktop-tutorial\\Project1\\Project1\\project.cpp",
+              "ToolTip": "D:\\Git\\assignment1\\Project1\\Project1\\project.cpp",
               "RelativeToolTip": "Project1\\project.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
